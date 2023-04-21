@@ -7,4 +7,4 @@ django-braces==1.13.0
 pycparser==2.19
 pytz==2019.2
 soupsieve==1.9.3
-sqlparse==0.3.0
+sqlparse==0.4.4
